@@ -1,7 +1,6 @@
 * linguist-vendored
 *.rb linguist-vendored=false
-
-# *.dart linguist-vendored=true
+*.dart linguist-vendored=true
 
 
 # *.dart linguist-detectable=true
