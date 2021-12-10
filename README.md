@@ -1,4 +1,4 @@
-# diceeApp--flutter
+# Dicee App--flutter
 
 A nice app for dice rolling
 
