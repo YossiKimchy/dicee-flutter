@@ -1,5 +1,5 @@
-# * linguist-vendored
-# *.rb linguist-vendored=false
+* linguist-vendored
+*.rb linguist-vendored=false
 
 # *.dart linguist-vendored=true
 
@@ -9,4 +9,4 @@
 # *.js linguist-detectable=false
 # *.html linguist-detectable=false
 # *.xml linguist-detectable=false
-.Ruby linguist-language=Dart
+# .Ruby linguist-language=Dart
